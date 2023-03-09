@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Entrada>
+
+    @*Mostrar todas las entradas*@
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Película</label>
+            </th>
+            <th>
+                <label>Horario</label>
+            </th>
+            <th>
+                <label>Sala</label>
+            </th>
+            <th>
+                <label>Fila</label>
+            </th>
+            <th>
+                <label>Asiento</label>
+            </th>
+            <th>
+                <label>Cliente</label>
+            </th>
+            <td></td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <label>@item.NombrePelicula</label>
+            </td>
+            <td>
+                <label>@item.Horario</label>
+            </td>
+            <td>
+                <label>@item.Sala</label>
+            </td>
+            <td>
+                <label>@item.Fila</label>
+            </td>
+            <td>
+                <label>@item.Asiento</label>
+            </td>
+            <td>
+                <label>@item.NombreYApellido</label>
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-exit">Editar Compra</a>
+                <a onclick="AlertCancelar('@item.Id')" class="btn btn-form">Cancelar compra</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a asp-action="Index" asp-controller="Home" class="btn btn-exit">VOLVER</a>
+
+
+@*
+        CONFRIMACION PARA BORRAR UNA ENTRADA
+    Usando SweetAlert (Herramienta de JavaScript) lo importamos en el _Layout.cshtml
+*@
+
+<script>
+    function AlertCancelar(identificador) {
+        Swal.fire({
+            title: '¿Seguro que desea cancelar su compra?',
+            text: "Recuerde que no será posible revertir esta acción.",
+            icon: '\uF339',
+            showCancelButton: true,
+            confirmButtonColor: '#68E173',
+            cancelButtonColor: '#5C66DB',
+            confirmButtonText: 'Confirmar',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                $.ajax({
+                    url: "Entrada/Delete?id=" + identificador,
+                    success: function (r) {
+                        window.location = "Entrada/Index";
+                        location.reload();
+                    }
+                });
+            }
+            return false;
+        });
+    }
+
+</script>
