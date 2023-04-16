@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoCine.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProyectoCine.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\argentina1985.png",
+      "PackagePath": "staticwebassets\\imgs\\argentina1985.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bg-image.png",
+      "PackagePath": "staticwebassets\\imgs\\bg-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bg-image.svg",
+      "PackagePath": "staticwebassets\\imgs\\bg-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\blackadam.png",
+      "PackagePath": "staticwebassets\\imgs\\blackadam.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\blackpanther.png",
+      "PackagePath": "staticwebassets\\imgs\\blackpanther.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-camera-movie.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-camera-movie.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-envelope.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-envelope.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-map.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-map.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-movie-play.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-movie-play.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-movie.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-movie.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\bx-phone.png",
+      "PackagePath": "staticwebassets\\imgs\\bx-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\crepusculo.png",
+      "PackagePath": "staticwebassets\\imgs\\crepusculo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\cronica-de-un-affaire.png",
+      "PackagePath": "staticwebassets\\imgs\\cronica-de-un-affaire.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\halloween-la-noche-final.png",
+      "PackagePath": "staticwebassets\\imgs\\halloween-la-noche-final.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\harry-potter.png",
+      "PackagePath": "staticwebassets\\imgs\\harry-potter.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-fb-nobg.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-fb-nobg.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-fb.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-fb.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-ig-nobg.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-ig-nobg.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-ig.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-ig.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-ldin-nobg.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-ldin-nobg.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-ldin.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-ldin.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-tw-nobg.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-tw-nobg.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\icon-tw.png",
+      "PackagePath": "staticwebassets\\imgs\\icon-tw.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\la-huerfana.png",
+      "PackagePath": "staticwebassets\\imgs\\la-huerfana.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\la-luz-del-diablo.png",
+      "PackagePath": "staticwebassets\\imgs\\la-luz-del-diablo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\no-odiaras.png",
+      "PackagePath": "staticwebassets\\imgs\\no-odiaras.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\one-piece.png",
+      "PackagePath": "staticwebassets\\imgs\\one-piece.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\pantera-negra.png",
+      "PackagePath": "staticwebassets\\imgs\\pantera-negra.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\pasaje-al-paraiso.png",
+      "PackagePath": "staticwebassets\\imgs\\pasaje-al-paraiso.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\pelicula-blackadam.png",
+      "PackagePath": "staticwebassets\\imgs\\pelicula-blackadam.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\sonrie.png",
+      "PackagePath": "staticwebassets\\imgs\\sonrie.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\super-mascotas.png",
+      "PackagePath": "staticwebassets\\imgs\\super-mascotas.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\tadeo.png",
+      "PackagePath": "staticwebassets\\imgs\\tadeo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\taxy-driver.png",
+      "PackagePath": "staticwebassets\\imgs\\taxy-driver.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\imgs\\visto-por-ultima-vez.png",
+      "PackagePath": "staticwebassets\\imgs\\visto-por-ultima-vez.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\js\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\js\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\ProyectoCine-main\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoCine.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProyectoCine.props",
+      "PackagePath": "build\\ProyectoCine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoCine.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoCine.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProyectoCine.props",
+      "PackagePath": "buildTransitive\\ProyectoCine.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
